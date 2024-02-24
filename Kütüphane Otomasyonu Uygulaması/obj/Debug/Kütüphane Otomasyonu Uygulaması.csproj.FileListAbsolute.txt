@@ -1,0 +1,13 @@
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\bin\Debug\Kütüphane Otomasyonu Uygulaması.exe.config
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\bin\Debug\Kütüphane Otomasyonu Uygulaması.exe
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\bin\Debug\Kütüphane Otomasyonu Uygulaması.pdb
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.csproj.AssemblyReference.cache
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane_Otomasyonu_Uygulaması.Form1.resources
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane_Otomasyonu_Uygulaması.Properties.Resources.resources
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.csproj.GenerateResource.cache
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.exe
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane Otomasyonu Uygulaması.pdb
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane_Otomasyonu_Uygulaması.AdminSayfasi.resources
+C:\Users\tayla\source\repos\Giris\Kütüphane Otomasyonu Uygulaması\obj\Debug\Kütüphane_Otomasyonu_Uygulaması.UyeSayfasi.resources
